@@ -17,6 +17,10 @@
 
 ### 🖥️ Open-Source Projects  
 
+<table>
+<tr><th>Machine Learning </th></tr>
+<tr><td>
 |Title | Stars | Technologies|
 |--|--|--|
 | [Yolo-v3](https://github.com/EricReno/Yolo_V3) | <img alt="Stars" src="https://img.shields.io/github/stars/EricReno/Yolo_V3?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
+</td></tr> </table>
