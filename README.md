@@ -4,10 +4,8 @@
 </a>
 <br/>
 
-<a href="https://gkos.dev">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
-</a>  
-<a href="https://gkos.dev/Resume.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>  
+<a href="https://github.com/EricReno">
+    <img src="https://github-stats-alpha.vercel.app/api?username=EricReno&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
 </p>
